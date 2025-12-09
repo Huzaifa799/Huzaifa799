@@ -23,9 +23,9 @@ I use Python to extract insights from data.
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa799&show_icons=true&theme=radical&hide_border=true" alt="huzaifa799 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa799&layout=compact&theme=radical&hide_border=true" alt="huzaifa799 languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa799&show_icons=true&theme=radical&hide_border=true&cache_bust=3" alt="huzaifa799 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa799&layout=compact&theme=radical&hide_border=true&cache_bust=3" alt="huzaifa799 languages" />
 </p>
