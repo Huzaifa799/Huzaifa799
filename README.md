@@ -1,62 +1,31 @@
 # Hi there, I'm Muhammad Huzaifa Khalid! 👋
 
-### 👨‍🎓 12th Grade Pre-Engineering Student | 📊 Aspiring Data Scientist
+### 👨‍🎓 Pre-Engineering Student | 📊 Aspiring Data Scientist
 
-I am a student passionate about the intersection of **Mathematics** and **Code**. I am currently building my foundation in Data Science, focusing on analyzing data and building machine learning models.
+I am a 12th-grade student building a strong foundation in the intersection of **Mathematics** and **Computer Science**. My goal is to leverage data to solve real-world problems.
 
-- 🔭 I’m currently analyzing datasets using **Python**.
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**.
-- 🧠 I love **Mathematics**, Calculus, and Statistics.
-- 📫 How to reach me: **huzaifakhalid221@gmail.com**
--  MY contact number : 03390096799
-
----
-
-### 🛠️ Languages & Tools
-I focus on the Python Data Science stack:
-
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  &nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  &nbsp;
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-  </a> 
-  &nbsp;
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
-  </a>
-  &nbsp;
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
-  </a> 
-</p>
+- 🔭 I’m currently working on **Exploratory Data Analysis (EDA)** projects using Python.
+- 🌱 I’m currently learning **Machine Learning Algorithms** and Statistical Modeling.
+- 🧠 My core interests lie in **Calculus, Linear Algebra, and Statistics**.
+- 📫 Contact me: **huzaifakhalid221@gmail.com**
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ The Data Science Stack
+I use Python to extract insights from data.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa799&show_icons=true&theme=radical&hide_border=true" alt="huzaifa799" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa799&layout=compact&theme=radical&hide_border=true" alt="huzaifa799" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=pandas&logoColor=black" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-<!--
-**Huzaifa799/Huzaifa799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa799&show_icons=true&theme=radical&hide_border=true" alt="huzaifa799 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa799&layout=compact&theme=radical&hide_border=true" alt="huzaifa799 languages" />
+</p>
