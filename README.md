@@ -8,6 +8,7 @@ I am a student passionate about the intersection of **Mathematics** and **Code**
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**.
 - 🧠 I love **Mathematics**, Calculus, and Statistics.
 - 📫 How to reach me: **huzaifakhalid221@gmail.com**
+-  MY contact number : 03390096799
 
 ---
 
